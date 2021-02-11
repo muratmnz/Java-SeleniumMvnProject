@@ -1,0 +1,26 @@
+2021-02-11 12:05:25 INFO  TestMain:25 - Test started.
+2021-02-11 12:05:30 INFO  HomePage:29 - HomePage checked
+2021-02-11 12:05:30 INFO  TestMain:44 - Home page is opened.
+2021-02-11 12:05:39 INFO  TestMain:48 - Login is successful.
+2021-02-11 12:05:48 INFO  TestMain:56 - Search two page is passed successfully.
+2021-02-11 12:05:48 INFO  HomePage:49 - Second search page is success.
+2021-02-11 12:05:48 INFO  TestMain:59 - Search two page is opened successfully.
+2021-02-11 12:05:54 INFO  BasketPage:40 - Item prices are equal.
+2021-02-11 12:05:54 INFO  TestMain:67 - Comparison is successful.
+2021-02-11 12:05:55 INFO  TestMain:70 - Adding process is successful.
+2021-02-11 12:05:56 INFO  BasketPage:54 - Item deleted.
+2021-02-11 12:05:57 INFO  TestMain:73 - Delete operation is successful.
+2021-02-11 12:06:01 INFO  TestMain:81 - Test completed.
+2021-02-11 12:09:22 INFO  TestMain:25 - Test started.
+2021-02-11 12:09:27 INFO  HomePage:29 - HomePage checked
+2021-02-11 12:09:27 INFO  TestMain:44 - Home page is opened.
+2021-02-11 12:09:36 INFO  TestMain:48 - Login is successful.
+2021-02-11 12:09:43 INFO  TestMain:56 - Search two page is passed successfully.
+2021-02-11 12:09:44 INFO  HomePage:49 - Second search page is success.
+2021-02-11 12:09:44 INFO  TestMain:59 - Search two page is opened successfully.
+2021-02-11 12:09:48 INFO  BasketPage:43 - Item prices are not equal.
+2021-02-11 12:09:48 INFO  TestMain:67 - Comparison is successful.
+2021-02-11 12:09:50 INFO  TestMain:70 - Adding process is successful.
+2021-02-11 12:09:51 INFO  BasketPage:54 - Item deleted.
+2021-02-11 12:09:51 INFO  TestMain:73 - Delete operation is successful.
+2021-02-11 12:09:56 INFO  TestMain:81 - Test completed.
